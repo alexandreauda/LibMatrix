@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1482707124 source:c:\users\alexandre\documents\projets c et c++\libmatrix\main.cpp
+	<iostream>
+	"LibMatrix.h"
+
+1482707502 c:\users\alexandre\documents\projets c et c++\libmatrix\libmatrix.h
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<ctime>
+	<math.h>
+
+1482707542 source:c:\users\alexandre\documents\projets c et c++\libmatrix\libmatrix.cpp
+	"LibMatrix.h"
+
